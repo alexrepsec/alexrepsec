@@ -1,17 +1,69 @@
 # Hello, I'm Alexander Zayas
 <a href="[https://linkedin.com](https://www.linkedin.com/in/alexander-zayas-3b05b3401/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+🛡️ Cybersecurity
+
+Cybersecurity Fundamentals (CIA Triad, Threat Modeling)
+Ethical Hacking & Penetration Testing
+Vulnerability Management & Risk Evaluation
+Digital Forensics & Incident Response (DFIR)
+Applied Cryptography (Encryption, PKI, Hashing)
+Web & Mobile Application Security (OWASP Top 10)
+Wireless Router Hardening & Security (WPA2, MAC Filtering)
+
+🌐 Networking
+
+Cisco Networking (Routing, Switching, Troubleshooting)
+Network Security & Secure Communications
+Remote Access Protocols (SSH, Telnet)
+File Transfer Protocols (FTP/SFTP)
+Network Diagnostics (Ping, ICMP, TTL)
+VTY Line Configuration & Access Control
+Firewall & Endpoint Security
+
+☁️ Cloud & Infrastructure
+
+Microsoft Azure
+Google Cloud Platform (GCP)
+Amazon Web Services (AWS)
+IT Support & Infrastructure Management
+Hardware/Software Troubleshooting
+
+🖥️ Operating Systems
+
+Windows Security & Hardening
+Linux Security & Hardening
+System Access Control
+
+📋 Compliance & Governance
+
+Security Frameworks & Governance Policies
+Regulatory Compliance
+Normatives & Security Standards
+
+🧰 Tools & Platforms
+
+Cisco Packet Tracer
+Microsoft 365
+Google Workspace
+
+👥 Leadership & Soft Skills
+
+Team Supervision & Mentoring
+Technical Training & Development
+Process Improvement
+Escalation & Complex Troubleshooting
+Bilingual — Spanish (Native) / English (Advanced)
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
