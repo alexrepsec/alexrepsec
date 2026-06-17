@@ -113,3 +113,4 @@ Bilingual — Spanish (Native) / English (Advanced).
 
 - <a href="https://github.com/alexrepsec/Log-Analysis-Lab/tree/main">Log Analysis Lab</a>
 - <a href="https://github.com/alexrepsec/soc_automation_lab">SOC Automation Lab</a>
+- Security Automation with Shuffle SOAR
