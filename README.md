@@ -67,7 +67,7 @@ Bilingual — Spanish (Native) / English (Advanced).
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/alexrepsec/Log-Analysis-Lab/tree/main">Log Analysis Lab</a>|
 | Traffic Capture Monitoring and Attack Detection| <a href="https://github.com/alexrepsec/soc_automation_lab">SOC Automation Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/alexrepsec/IOC-Enrichment-Triage">SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -113,4 +113,4 @@ Bilingual — Spanish (Native) / English (Advanced).
 
 - <a href="https://github.com/alexrepsec/Log-Analysis-Lab/tree/main">Log Analysis Lab</a>
 - <a href="https://github.com/alexrepsec/soc_automation_lab">SOC Automation Lab</a>
-- Security Automation with Shuffle SOAR
+- <a href="https://github.com/alexrepsec/IOC-Enrichment-Triage">SOC Automation Lab|
