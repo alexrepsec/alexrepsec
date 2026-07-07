@@ -112,5 +112,6 @@ Bilingual — Spanish (Native) / English (Advanced).
 ## Projects
 
 - <a href="https://github.com/alexrepsec/Log-Analysis-Lab/tree/main">Log Analysis Lab</a>
-- <a href="https://github.com/alexrepsec/soc_automation_lab">SOC Automation Lab</a>
-- <a href="https://github.com/alexrepsec/IOC-Enrichment-Triage">SOC Automation Lab</a>
+- <a href="https://github.com/alexrepsec/soc_automation_lab">Traffic Capture Monitoring and Attack Detection</a>
+- <a href="https://github.com/alexrepsec/IOC-Enrichment-Triage">Security Automation with Shuffle SOAR</a>
+- <a href="">Incident Response Planning and Execution
