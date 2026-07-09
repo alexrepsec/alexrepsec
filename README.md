@@ -115,3 +115,5 @@ Bilingual — Spanish (Native) / English (Advanced).
 - <a href="https://github.com/alexrepsec/soc_automation_lab">Traffic Capture Monitoring and Attack Detection</a>
 - <a href="https://github.com/alexrepsec/IOC-Enrichment-Triage">Security Automation with Shuffle SOAR</a>
 - <a href="https://github.com/alexrepsec/incident-response-lab">Incident Response Planning and Execution
+- <a href="">Case Management with TheHive
+- <a href="">Scripting and Automation for Threat Mitigation
