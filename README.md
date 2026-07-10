@@ -69,8 +69,8 @@ Bilingual — Spanish (Native) / English (Advanced).
 | Traffic Capture Monitoring and Attack Detection| <a href="https://github.com/alexrepsec/soc_automation_lab">SOC Automation Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/alexrepsec/IOC-Enrichment-Triage">SOC Automation Lab|
 | Incident Response Planning and Execution      | <a href="https://github.com/alexrepsec/incident-response-lab">SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Case Management with TheHive                  | <a href="https://github.com/alexrepsec/Case-Management-with-TheHive">SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | <a href="">SOC Automation Lab|
 
 ## Tools
 
@@ -115,5 +115,5 @@ Bilingual — Spanish (Native) / English (Advanced).
 - <a href="https://github.com/alexrepsec/soc_automation_lab">Traffic Capture Monitoring and Attack Detection</a>
 - <a href="https://github.com/alexrepsec/IOC-Enrichment-Triage">Security Automation with Shuffle SOAR</a>
 - <a href="https://github.com/alexrepsec/incident-response-lab">Incident Response Planning and Execution
-- <a href="">Case Management with TheHive
+- <a href="https://github.com/alexrepsec/Case-Management-with-TheHive">Case Management with TheHive
 - <a href="">Scripting and Automation for Threat Mitigation
