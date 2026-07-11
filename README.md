@@ -70,7 +70,7 @@ Bilingual — Spanish (Native) / English (Advanced).
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/alexrepsec/IOC-Enrichment-Triage">SOC Automation Lab|
 | Incident Response Planning and Execution      | <a href="https://github.com/alexrepsec/incident-response-lab">SOC Automation Lab|
 | Case Management with TheHive                  | <a href="https://github.com/alexrepsec/Case-Management-with-TheHive">SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | <a href="">SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/alexrepsec/Scripting-and-Automation-for-Threat-Mitigation">SOC Automation Lab|
 
 ## Tools
 
@@ -116,4 +116,4 @@ Bilingual — Spanish (Native) / English (Advanced).
 - <a href="https://github.com/alexrepsec/IOC-Enrichment-Triage">Security Automation with Shuffle SOAR</a>
 - <a href="https://github.com/alexrepsec/incident-response-lab">Incident Response Planning and Execution
 - <a href="https://github.com/alexrepsec/Case-Management-with-TheHive">Case Management with TheHive
-- <a href="">Scripting and Automation for Threat Mitigation
+- <a href="https://github.com/alexrepsec/Scripting-and-Automation-for-Threat-Mitigation">Scripting and Automation for Threat Mitigation
