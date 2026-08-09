@@ -118,7 +118,7 @@ Bilingual — Spanish (Native) / English (Advanced).
 - <a href="https://github.com/alexrepsec/Case-Management-with-TheHive">Case Management with TheHive
 - <a href="https://github.com/alexrepsec/Scripting-and-Automation-for-Threat-Mitigation">Scripting and Automation for Threat Mitigation
 
-- ## Write-Ups
+ ## Write-Ups
 
 - <a href="https://github.com/alexrepsec/Golden-Ticket-write-up">Golden Ticket Lab | LetsDefend
 - <a href="https://github.com/alexrepsec/LetsDefend-Memory-Analysis-Challenge-Write-Up">Memory Dump Lab | LetsDefend
