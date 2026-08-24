@@ -105,7 +105,6 @@ Bilingual — Spanish (Native) / English (Advanced).
 ## Certifications
 
 <div>
-    <img src="https://img.shields.io/badge/-CC-00A3E0?&style=for-the-badge&logo=ISC2&logoColor=white" />
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
