@@ -106,6 +106,8 @@ Bilingual — Spanish (Native) / English (Advanced).
 
 <div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Palo%20Alto%20Security%20Professional-FA582D?&style=for-the-badge&logo=PaloAltoNetworks&logoColor=white" />
+
 </div>
 
 ## Projects
