@@ -124,4 +124,4 @@ Bilingual — Spanish (Native) / English (Advanced).
 - <a href="https://github.com/alexrepsec/Golden-Ticket-write-up">Golden Ticket Lab | LetsDefend
 - <a href="https://github.com/alexrepsec/LetsDefend-Memory-Analysis-Challenge-Write-Up">Memory Dump Lab | LetsDefend
 - <a href="https://github.com/alexrepsec/Windows-Forensics-write-up">Windows Forensics Lab | LetsDefend
-
+- <a href="https://github.com/alexrepsec/dotnet-loader-malware-analysis">Malware Analysis Lab | Academia-SPG
