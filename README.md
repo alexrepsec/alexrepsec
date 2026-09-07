@@ -65,7 +65,7 @@ Bilingual — Spanish (Native) / English (Advanced).
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/alexrepsec/Log-Analysis-Lab/tree/main">Log Analysis Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/alexrepsec/Log-Analysis-Lab/tree/main">SOC Analyst Lab|
 | Traffic Capture Monitoring and Attack Detection| <a href="https://github.com/alexrepsec/soc_automation_lab">SOC Automation Lab|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/alexrepsec/IOC-Enrichment-Triage">SOC Automation Lab|
 | Incident Response Planning and Execution      | <a href="https://github.com/alexrepsec/incident-response-lab">SOC Automation Lab|
